@@ -30,3 +30,5 @@ The User Will Be Prompted For :
     B. N For No
 
 The GCC File Has Also Been Pushed For Reference
+
+Unlike tree traversal, graph traversal may require that some vertices be visited more than once, since it is not necessarily known before transitioning to a vertex that it has already been explored. As graphs become more dense, this redundancy becomes more prevalent, causing computation time to increase; as graphs become more sparse, the opposite holds true.
